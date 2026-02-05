@@ -1,0 +1,25 @@
+month,season,baby_age_group,dress_type,fabric,color_family,monthly_sales_units
+31-01-2023,Winter,0-3 months,Onesie,Organic Cotton,Pastel,420
+28-02-2023,Winter,0-3 months,Romper,Cotton,Pastel,380
+31-03-2023,Summer,3-6 months,Sleepsuit,Cotton,Neutral,450
+30-04-2023,Summer,3-6 months,Onesie,Organic Cotton,Pastel,500
+31-05-2023,Summer,0-3 months,Romper,Bamboo,Neutral,470
+30-06-2023,Monsoon,0-3 months,Onesie,Cotton,Pastel,520
+31-07-2023,Monsoon,3-6 months,Sleepsuit,Bamboo,Neutral,490
+31-08-2023,Monsoon,3-6 months,Romper,Cotton,Pastel,460
+30-09-2023,Winter,0-3 months,Onesie,Organic Cotton,Pastel,530
+31-10-2023,Winter,0-3 months,Romper,Cotton,Neutral,560
+30-11-2023,Winter,3-6 months,Sleepsuit,Bamboo,Neutral,510
+31-12-2023,Winter,3-6 months,Onesie,Organic Cotton,Pastel,540
+31-01-2024,Winter,0-3 months,Onesie,Organic Cotton,Pastel,440
+29-02-2024,Winter,0-3 months,Romper,Cotton,Pastel,400
+31-03-2024,Summer,3-6 months,Sleepsuit,Cotton,Neutral,480
+30-04-2024,Summer,3-6 months,Onesie,Organic Cotton,Pastel,520
+31-05-2024,Summer,0-3 months,Romper,Bamboo,Neutral,490
+30-06-2024,Monsoon,0-3 months,Onesie,Cotton,Pastel,540
+31-07-2024,Monsoon,3-6 months,Sleepsuit,Bamboo,Neutral,510
+31-08-2024,Monsoon,3-6 months,Romper,Cotton,Pastel,480
+30-09-2024,Winter,0-3 months,Onesie,Organic Cotton,Pastel,560
+31-10-2024,Winter,0-3 months,Romper,Cotton,Neutral,590
+30-11-2024,Winter,3-6 months,Sleepsuit,Bamboo,Neutral,540
+31-12-2024,Winter,3-6 months,Onesie,Organic Cotton,Pastel,570
